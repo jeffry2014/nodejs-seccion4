@@ -1,5 +1,6 @@
 # Notas:
-Este es mi primer programa en nodejs
+Este es mi primer programa en nodejs.
+Segundo comentario.
 ```
 Options:
       --help     Show help                                             [boolean]       
